@@ -15,7 +15,7 @@ acknowledgements: ""
     <h1>Trustworthy AI in Personalised Medicine Oxford GET-CPM Workshop</h1>
     <br>
 <p>
-In-context learning (ICL) is an emerging capability of large-scale models, including large language models (LLMs) like GPT-3, to acquire new capabilities directly from the context of an input example without separate training or fine-tuning, enabling these models to adapt rapidly to new tasks, datasets, and domains. This workshop brings together diverse perspectives on this new paradigm to assess progress, synthesize best practices, and chart open problems. Core topics will include architectural and other inductive biases enabling in-context skill acquisition, and reliable evaluation of ICL in application domains including reinforcement learning, representation learning, and safe and reliable machine learning.
+Include workshop Abstract here.
 </p>
     <p>
     <b>The workshop will take place on Tuesday, November 12th, 2024 at XXX.</b>
@@ -44,7 +44,7 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
   <div class="col-xs-12">
     <h2>Schedule</h2>
     <br/>
-    <p> All times listed below are in Central European Summer Time (CEST).  </p>
+    <p> All times listed below are in Greenwich Mean Time (GMT).  </p>
   </div>
 </div>
 
