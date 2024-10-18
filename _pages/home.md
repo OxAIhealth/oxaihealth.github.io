@@ -2,7 +2,7 @@
 layout: default
 urltitle: "Trustworthy AI in Personalised Medicine Oxford GET-CPM Workshop"
 title: "Trustworthy AI in Personalised Medicine Oxford GET-CPM Workshop"
-categories: workshop, icml, fairness, personalised-medicine, 2024
+categories: workshop, fairness, personalised-medicine, 2024
 permalink: /
 bibtex: true
 paper: true
@@ -18,7 +18,7 @@ acknowledgements: ""
 Include workshop Abstract here.
 </p>
     <p>
-    <b>The workshop will take place on Tuesday, November 12th, 2024 at XXX.</b>
+    <b>The workshop will take place on Tuesday, November 12th, 2024 at 9.30am.</b>
     </p>
     <p>
       In case of any issues or questions, feel free to email the organizers at <a href="mailto:xxx@getoxcpm.com" class="red">xxx@getoxcpm.com</a>.
@@ -53,116 +53,118 @@ Include workshop Abstract here.
     <table class="table table-striped">
       <tbody>
         <tr>
-          <td>8:30 - 9:00 AM</td>
+          <td>9:30 - 10:00 AM</td>
           <td>
-            Coffee Break
+            Registration and Welcome Coffee, Tea and Biscuits
           </td>
         </tr>
         <tr>
-          <td>9:00 - 9:05 AM</td>
+          <td>10:00 - 10:10 AM</td>
           <td>
             Opening Remarks
           </td>
         </tr>
         <tr>
-          <td>9:05 - 9:45 AM</td>
+          <td>10:10 - 10:50 AM</td>
           <td>
-            Invited Talk ""<br/>
-            <i>SC</i>
+            Keynote Talk 1: Zachary Lipton<br/>
+            <i>Topic: "TBA"</i>
           </td>
         </tr>
         <tr>
-          <td>9:45 - 10:25 AM</td>
+          <td>10:50 - 11:30 AM</td>
           <td>
-            Invited Talk ""<br/>
-            <i>SC</i>
+            Keynote Talk 2: Anja Thieme<br/>
+            <i>Topic: "TBA"</i>
           </td>
         </tr>
         <tr>
-          <td>10:25 - 11:15 AM</td>
+          <td>11:30 - 11:45 AM</td>
           <td>
-            Poster Session + Break <br/>
+            Break
           </td>
         </tr>
         <tr>
-          <td>11:15 - 11:20 AM</td>
+          <td>11:45 - 12:15 PM</td>
           <td>
-            Spotlight Awards Ceremony by CPM<br/>
+            Panel Discussion 1: Technical Challenges
           </td>
         </tr>
         <tr>
-          <td>11:20 - 11:30 AM</td>
+          <td>12:15 - 12:45 PM</td>
           <td>
-            Spotlight Paper:
+            Keynote Talk 3: Angeliki Kerasidou<br/>
+            <i>Topic: "Who is the expert in the room? Trust and expertise in AI-assisted healthcare"</i>
           </td>
         </tr>
         <tr>
-          <td>11:30 - 11:40 AM</td>
+          <td>12:45 - 1:15 PM</td>
           <td>
-            Spotlight Paper: 
+            Keynote Talk 4: Barbara Prainsack<br/>
+            <i>Topic: "TBA"</i>
           </td>
         </tr>
         <tr>
-          <td>11:40 - 11:50 AM</td>
-          <td>
-            Spotlight Paper:
-          </td>
-        </tr>
-        <tr>
-          <td>11:50 AM - 12:30 PM</td>
-          <td>
-            Invited Talk: ""<br/>
-            <i>SM</i>
-          </td>
-        </tr>
-        <tr>
-          <td>12:30 - 2:00 PM</td>
+          <td>1:15 - 2:15 PM</td>
           <td>
             Lunch Break
           </td>
         </tr>
         <tr>
-          <td>2:00 - 2:40 PM</td>
+          <td>2:15 - 2:45 PM</td>
           <td>
-            Invited Talk: ""<br/>
-            <i>MK</i>
+            Keynote Talk 5: Timothy M Hospedales<br/>
+            <i>Topic: "TBA"</i>
           </td>
         </tr>
         <tr>
-          <td>2:40 - 3:20 PM</td>
+          <td>2:45 - 3:15 PM</td>
           <td>
-            Invited Talk: ""<br/>
-            <i> </i>
+            Keynote Talk 6: Matthias Braun<br/>
+            <i>Topic: "TBA"</i>
           </td>
         </tr>
         <tr>
-          <td>3:20 - 4:15 PM</td>
+          <td>3:15 - 3:45 PM</td>
           <td>
-            Poster Session
+            Afternoon Coffee Break
           </td>
         </tr>
         <tr>
-          <td>3:30 - 4:00 PM</td>
+          <td>3:45 - 4:15 PM</td>
           <td>
-            Coffee Break
+            Panel Discussion 2: Ethics, Law and Human-Centered AI
           </td>
         </tr>
         <tr>
-          <td>4:15 - 4:55 PM</td>
+          <td>4:15 - 4:45 PM</td>
           <td>
-            Panel Discussion <br/>
+            Keynote Talk 7: Oxford GET Team
           </td>
         </tr>
         <tr>
-          <td>4:55 - 5:00 PM</td>
+          <td>4:45 PM</td>
           <td>
             Closing Remarks
+          </td>
+        </tr>
+        <tr>
+          <td>5:00 PM - onwards</td>
+          <td>
+            Drinks Reception and Networking at St Anne’s College (Open invite to all attendees)
+          </td>
+        </tr>
+        <tr>
+          <td>6:30 PM</td>
+          <td>
+            Dinner (Organisers and Speakers)
           </td>
         </tr>
       </tbody>
     </table>
   </div>
 </div>
+
 
 
 <br/>
