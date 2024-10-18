@@ -1,7 +1,7 @@
 ---
 layout: default
-urltitle: "Trustworthy AI in Personalised Medicine Oxford GET-CPM Workshop"
-title: "Trustworthy AI in Personalised Medicine Oxford GET-CPM Workshop"
+urltitle: " Auditing Accountability in Trustworthy and Explainable Artificial Intelligence Systems with applications in Personalised Medicine"
+title: " Auditing Accountability in Trustworthy and Explainable Artificial Intelligence Systems with applications in Personalised Medicine"
 categories: workshop, fairness, personalised-medicine, 2024
 permalink: /
 bibtex: true
