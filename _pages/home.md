@@ -12,7 +12,7 @@ acknowledgements: ""
 <br/>
 <div class="row reverse">
   <div class="col-xs-12 col-md-7">
-    <h1>Trustworthy AI in Personalised Medicine Oxford GET-CPM Workshop</h1>
+    <h1> Auditing Accountability in Trustworthy and Explainable Artificial Intelligence Systems with applications in Personalised Medicine</h1>
     <br>
 <p>
 Join leading experts and practitioners from healthcare, computer science, policy, law, ethics, and social sciences for an engaging workshop focused on advancing trustworthy and accountable artificial intelligence (AI) in personalised medicine and healthcare. This event will explore key principles, core challenges, and best practices for the reliable evaluation and deployment of AI systems in real-world scenarios. Through panel discussions and keynote presentations, participants will tackle technical challenges, legal and ethical considerations, and the critical need for human-centered AI. Discover how interdisciplinary collaboration can drive responsible innovation while ensuring AI systems are both effective and trustworthy. 
