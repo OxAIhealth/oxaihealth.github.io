@@ -29,7 +29,7 @@ Lunch and refreshments will be provided, and we plan to have a drinks reception 
   <div class="col-md-1 hidden-xs">
   </div>
   <div class="col-xs-12 col-md-4">
-    <img class="cover" src="/static/img/cover.png">
+    <img class="cover" src="/static/img/cover.jpeg">
   </div>
 </div>
 
