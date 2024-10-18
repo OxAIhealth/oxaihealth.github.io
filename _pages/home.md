@@ -23,7 +23,7 @@ Lunch and refreshments will be provided, and we plan to have a drinks reception 
     <b>The workshop will take place on Tuesday, November 12th, 2024 at 9.30am.</b>
     </p>
     <p>
-      This workshop is jointly organised by the Governance of Emerging Technologies team and the Oxford Centre for personalised medicine. In case of any issues or questions, contact Eoin Delaney. 
+      This workshop is jointly organised by the <a href="https://www.oii.ox.ac.uk/research/projects/governance-of-emerging-technologies/" target="_blank">Governance of Emerging Technologies Team</a>  and the <a href="https://cpm.ox.ac.uk/meet-the-team/" target="_blank">Oxford Centre for Personalised Medicine</a>. In case of any issues or questions, contact Eoin Delaney. 
     </p>
   </div>
   <div class="col-md-1 hidden-xs">
