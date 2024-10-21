@@ -1,7 +1,7 @@
 ---
 layout: default
-urltitle: " Auditing Accountability in Trustworthy and Explainable Artificial Intelligence Systems with applications in Personalised Medicine"
-title: " Auditing Accountability in Trustworthy and Explainable Artificial Intelligence Systems with applications in Personalised Medicine"
+urltitle: " Auditing Accountability in Trustworthy Artificial Intelligence with applications in Personalised Medicine"
+title: " Auditing Accountability in Trustworthy Artificial Intelligence with applications in Personalised Medicine"
 categories: workshop, fairness, personalised-medicine, 2024
 permalink: /
 bibtex: true
@@ -12,7 +12,7 @@ acknowledgements: ""
 <br/>
 <div class="row reverse">
   <div class="col-xs-12 col-md-7">
-    <h1> Auditing Accountability in Trustworthy and Explainable Artificial Intelligence Systems with applications in Personalised Medicine</h1>
+    <h1> Auditing Accountability in Trustworthy Artificial Intelligence with applications in Personalised Medicine</h1>
     <br>
 <p>
 <b>Workshop Summary:</b> Join leading experts and practitioners from healthcare, computer science, policy, law, ethics, and social sciences for an engaging workshop focused on advancing trustworthy and accountable artificial intelligence (AI) in personalised medicine and healthcare. This event will explore key principles, core challenges, and best practices for the reliable evaluation and deployment of AI systems in real-world scenarios.
