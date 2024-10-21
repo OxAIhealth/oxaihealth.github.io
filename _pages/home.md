@@ -77,14 +77,14 @@ acknowledgements: ""
         <tr>
           <td>10:10 - 10:50 AM</td>
           <td>
-            Keynote Talk 1: Zachary Lipton<br/>
+            Keynote Talk 1: Zachary Lipton (CMU & Abridge)<br/>
             <i>Topic: "TBA"</i>
           </td>
         </tr>
         <tr>
           <td>10:50 - 11:30 AM</td>
           <td>
-            Keynote Talk 2: Anja Thieme<br/>
+            Keynote Talk 2: Anja Thieme (Microsoft Research Cambridge)<br/>
             <i>Topic: "TBA"</i>
           </td>
         </tr>
@@ -103,14 +103,14 @@ acknowledgements: ""
         <tr>
           <td>12:15 - 12:45 PM</td>
           <td>
-            Keynote Talk 3: Angeliki Kerasidou<br/>
+            Keynote Talk 3: Angeliki Kerasidou (University of Oxford)<br/>
             <i>Topic: "Who is the expert in the room? Trust and expertise in AI-assisted healthcare"</i>
           </td>
         </tr>
         <tr>
           <td>12:45 - 1:15 PM</td>
           <td>
-            Keynote Talk 4: Barbara Prainsack<br/>
+            Keynote Talk 4: Barbara Prainsack (Universitat Wien)<br/>
             <i>Topic: "TBA"</i>
           </td>
         </tr>
@@ -123,14 +123,14 @@ acknowledgements: ""
         <tr>
           <td>2:15 - 2:45 PM</td>
           <td>
-            Keynote Talk 5: Timothy M Hospedales<br/>
+            Keynote Talk 5: Timothy M Hospedales (The University of Edinburgh & Samsung Research)<br/>
             <i>Topic: "TBA"</i>
           </td>
         </tr>
         <tr>
           <td>2:45 - 3:15 PM</td>
           <td>
-            Keynote Talk 6: Matthias Braun<br/>
+            Keynote Talk 6: Matthias Braun (University of Bonn)<br/>
             <i>Topic: "TBA"</i>
           </td>
         </tr>
