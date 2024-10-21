@@ -29,7 +29,7 @@ acknowledgements: ""
   <div class="col-xs-12">
     <h2>Registration</h2>
     <br/>
-    <p>We still have limited places for attendance. Please register for the workshop by filling out <a href="https://forms.gle/your-google-form-link" target="_blank">this Google Form</a>. Ensure that all required fields are completed before submitting.</p>
+    <p>We still have limited places for attendance. Please register for the workshop by filling out <a href="https://docs.google.com/forms/d/e/1FAIpQLSd2ILweHExZoaFnF_EBPqZHyYXmsxnxAveIKjQ03aW_VSaPfA/viewform" target="_blank">this Google Form</a>. Ensure that all required fields are completed before submitting.</p>
   </div>
 </div>
 
