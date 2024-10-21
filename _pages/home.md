@@ -24,6 +24,15 @@ acknowledgements: ""
     <p>
       This workshop is jointly organised by the <a href="https://www.oii.ox.ac.uk/research/projects/governance-of-emerging-technologies/" target="_blank">Governance of Emerging Technologies Team</a>  and the <a href="https://cpm.ox.ac.uk/meet-the-team/" target="_blank">Oxford Centre for Personalised Medicine</a>. In case of any issues or questions, please contact Eoin Delaney who is leading the organisation of this workshop. 
     </p>
+
+<div class="row" id="registration">
+  <div class="col-xs-12">
+    <h2>Registration</h2>
+    <br/>
+    <p>We still have limited places for attendance. Please register for the workshop by filling out <a href="https://forms.gle/your-google-form-link" target="_blank">this Google Form</a>. Ensure that all required fields are completed before submitting.</p>
+  </div>
+</div>
+
   </div>
   <div class="col-md-1 hidden-xs">
   </div>
