@@ -85,7 +85,7 @@ acknowledgements: ""
           <td>10:50 - 11:30 AM</td>
           <td>
             Keynote Talk 2: Anja Thieme (Microsoft Research Cambridge)<br/>
-            <i>Topic: "TBA"</i>
+            <i>Topic: "Human-Centred AI Development & Evaluation in Radiology"</i>
           </td>
         </tr>
         <tr>
