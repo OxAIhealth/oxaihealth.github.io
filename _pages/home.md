@@ -19,7 +19,7 @@ acknowledgements: ""
  
 </p>
     <p>
-    <b>The workshop will take place on Tuesday, November 12th, 2024 at 9.30am in St. Anne's College, Oxford.</b> Lunch and refreshments will be provided, and we plan to have a drinks reception for networking after the event. Please indicate dietary requirements in the linked form.
+    <b>The workshop will take place on Tuesday, November 12th, 2024 at 9.30am in St. Anne's College, Oxford.</b> Lunch and refreshments will be provided for registered attendees, and we plan to have a drinks reception for networking after the event. Please indicate dietary requirements in the linked form.
     </p>
     <p>
       This workshop is jointly organised by the <a href="https://www.oii.ox.ac.uk/research/projects/governance-of-emerging-technologies/" target="_blank">Governance of Emerging Technologies Team</a>  and the <a href="https://cpm.ox.ac.uk/meet-the-team/" target="_blank">Oxford Centre for Personalised Medicine</a>. In case of any issues or questions, please contact Eoin Delaney who is leading the organisation of this workshop. 
@@ -117,7 +117,7 @@ acknowledgements: ""
         <tr>
           <td>1:15 - 2:15 PM</td>
           <td>
-            Lunch Break
+            Lunch Break (Open invite to all registered attendees)
           </td>
         </tr>
         <tr>
@@ -161,13 +161,13 @@ acknowledgements: ""
         <tr>
           <td>5:00 PM - onwards</td>
           <td>
-            Drinks Reception and Networking at St Anne’s College (Open invite to all attendees)
+            Drinks Reception and Networking at St Anne’s College (Open invite to all registered attendees)
           </td>
         </tr>
         <tr>
           <td>6:30 PM</td>
           <td>
-            Dinner (Organisers and Speakers)
+            Dinner (For Organisers and Speakers)
           </td>
         </tr>
       </tbody>
