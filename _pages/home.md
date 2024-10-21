@@ -97,7 +97,7 @@ acknowledgements: ""
         <tr>
           <td>11:45 - 12:15 PM</td>
           <td>
-            Panel Discussion 1: Technical Challenges
+            Panel Discussion 1: Technical Challanges in Real World Application Scenarios
           </td>
         </tr>
         <tr>
