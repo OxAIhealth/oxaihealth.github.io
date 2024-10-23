@@ -97,7 +97,7 @@ acknowledgements: ""
         <tr>
           <td>11:45 - 12:15 PM</td>
           <td>
-            Panel Discussion 1: Technical Challanges in Real World Application Scenarios
+            Panel Discussion 1: Technical Challanges in Real World Application Scenarios (Chris Russell, Andrew Soltan, Anja Thieme)
           </td>
         </tr>
         <tr>
@@ -143,7 +143,7 @@ acknowledgements: ""
         <tr>
           <td>3:45 - 4:15 PM</td>
           <td>
-            Panel Discussion 2: Ethics, Law and Human-Centered AI
+            Panel Discussion 2: Ethics, Law and Human-Centered AI (Ignacio Cofone, Matthias Braun, CPM Representative)
           </td>
         </tr>
         <tr>
