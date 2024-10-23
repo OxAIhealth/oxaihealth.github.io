@@ -54,7 +54,7 @@ acknowledgements: ""
   <div class="col-xs-12">
     <h2>Schedule</h2>
     <br/>
-    <p> All times listed below are in Greenwich Mean Time (GMT).  </p>
+    <p> All times listed below are in Greenwich Mean Time (GMT). Please note that this schedule may change slightly.  </p>
   </div>
 </div>
 
