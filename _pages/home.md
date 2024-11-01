@@ -77,7 +77,7 @@ acknowledgements: ""
         <tr>
           <td>10:10 - 10:50 AM</td>
           <td>
-            Keynote Talk 1: Zachary Lipton (CMU & Abridge)<br/>
+            Keynote Talk 1: TBD<br/>
             <i>Topic: "TBA"</i>
           </td>
         </tr>
@@ -149,7 +149,7 @@ acknowledgements: ""
         <tr>
           <td>4:15 - 4:45 PM</td>
           <td>
-            Keynote Talk 7: Oxford GET Team
+            Keynote Talk 7: Zachary Lipton (CMU & Abridge)
           </td>
         </tr>
         <tr>
