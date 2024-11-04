@@ -77,8 +77,8 @@ acknowledgements: ""
         <tr>
           <td>10:10 - 10:50 AM</td>
           <td>
-            Keynote Talk 1: TBD<br/>
-            <i>Topic: "TBA"</i>
+            Keynote Talk 1: Matthias Braun (University of Bonn)<br/>
+            <i>Topic: "Understanding the Human in Human Centered AI"</i>
           </td>
         </tr>
         <tr>
@@ -130,7 +130,7 @@ acknowledgements: ""
         <tr>
           <td>2:45 - 3:15 PM</td>
           <td>
-            Keynote Talk 6: Matthias Braun (University of Bonn)<br/>
+            Keynote Talk 6: TBD <br/>
             <i>Topic: "TBA"</i>
           </td>
         </tr>
