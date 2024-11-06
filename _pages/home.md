@@ -97,7 +97,7 @@ acknowledgements: ""
         <tr>
           <td>11:45 - 12:15 PM</td>
           <td>
-            Panel Discussion 1: Technical Challenges in Real World Application Scenarios (Chris Russell, Andrew Soltan, Anja Thieme) Moderator - Kai Rawal.
+            Panel Discussion 1: Technical Challenges in Real World Application Scenarios (Chris Russell, Andrew Soltan, Anja Thieme). Moderator - Kai Rawal.
           </td>
         </tr>
         <tr>
@@ -143,7 +143,7 @@ acknowledgements: ""
         <tr>
           <td>3:45 - 4:15 PM</td>
           <td>
-            Panel Discussion 2: Ethics, Law and Human-Centered AI (Ignacio Cofone, Matthias Braun, Mirjam Plantinga) Moderator - Sandra Wachter. 
+            Panel Discussion 2: Ethics, Law and Human-Centered AI (Ignacio Cofone, Matthias Braun, Mirjam Plantinga). Moderator - Sandra Wachter. 
           </td>
         </tr>
         <tr>
