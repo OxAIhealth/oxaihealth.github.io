@@ -143,7 +143,7 @@ acknowledgements: ""
         <tr>
           <td>3:45 - 4:15 PM</td>
           <td>
-            Panel Discussion 2: Ethics, Law and Human-Centered AI (Ignacio Cofone, Matthias Braun, CPM Representative)
+            Panel Discussion 2: Ethics, Law and Human-Centered AI (Ignacio Cofone, Matthias Braun, Mirjam Plantinga)
           </td>
         </tr>
         <tr>
