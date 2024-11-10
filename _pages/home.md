@@ -130,8 +130,8 @@ acknowledgements: ""
         <tr>
           <td>2:45 - 3:15 PM</td>
           <td>
-            Keynote Talk 6: TBD <br/>
-            <i>Topic: "TBA"</i>
+            Keynote Talk 6: GET Team (The University of Oxford) <br/>
+            <i>Topic: "OxonFair: A Flexible Toolkit for Algorithmic Fairness"</i>
           </td>
         </tr>
         <tr>
