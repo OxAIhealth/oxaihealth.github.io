@@ -19,7 +19,7 @@ acknowledgements: ""
  
 </p>
     <p>
-    <b>The workshop will take place on Tuesday, November 12th, 2024 at 9.30 AM in St. Anne's College, Oxford.</b> Lunch and refreshments will be provided for registered attendees, and we plan to have a drinks reception for networking after the event. Please indicate dietary requirements in the linked form.
+    <b>The workshop will take place on Tuesday, November 12th, 2024 at 9.30 AM in the Tsuzuki lecture theatre, St. Anne's College, Oxford.</b> Lunch and refreshments will be provided for registered attendees, and we plan to have a drinks reception for networking after the event. Please indicate dietary requirements in the linked form.
     </p>
     <p>
       This workshop is jointly organised by the <a href="https://www.oii.ox.ac.uk/research/projects/governance-of-emerging-technologies/" target="_blank">Governance of Emerging Technologies Team</a>  and the <a href="https://cpm.ox.ac.uk/meet-the-team/" target="_blank">Oxford Centre for Personalised Medicine</a>. In case of any issues or questions, please contact Eoin Delaney who is leading the organisation of this workshop. 
@@ -111,7 +111,7 @@ acknowledgements: ""
           <td>12:45 - 1:15 PM</td>
           <td>
             Keynote Talk 4: Barbara Prainsack (Universitat Wien)<br/>
-            <i>Topic: "TBA"</i>
+            <i>Topic: "Personalised and Precision medicine in the digital era."</i>
           </td>
         </tr>
         <tr>
