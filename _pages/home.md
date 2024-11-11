@@ -97,7 +97,7 @@ acknowledgements: ""
         <tr>
           <td>11:45 - 12:15 PM</td>
           <td>
-            Panel Discussion 1: Technical Challenges in Real World Application Scenarios (Chris Russell, Andrew Soltan, Anja Thieme). Moderator - Kai Rawal.
+            Panel Discussion 1: Technical Challenges in Real World Application Scenarios (Chris Russell, Andrew Soltan, Anja Thieme and Barbara Prainsack). Moderator - Kai Rawal.
           </td>
         </tr>
         <tr>
